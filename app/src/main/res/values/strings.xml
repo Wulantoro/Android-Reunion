@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reunion</string>
+    <string name="nama">Nama</string>
+    <string name="pass">Password</string>
+    <string name="reg">Registrasi</string>
+    <string name="all_permission_not_granted">all permission not granted</string>
+    <string name="all_permission_granted">all permission granted</string>
+    <string name="write_external_permission_not_granted">write external permission not granted</string>
+    <string name="read_external_permission_not_granted">read external permission not granted</string>
+    <string name="camera_permission_not_granted">camera permission not granted</string>
+</resources>
